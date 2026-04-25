@@ -1,0 +1,10 @@
+name,foods,explanation
+high protein,chicken|eggs|yogurt|fish|beans,Focuses on protein to build muscle and support recovery.
+low-carb,leafy greens|eggs|meat|fish|avocado,Limits carbs and replaces them with proteins and healthy fats.
+keto,avocado|eggs|cheese|meat|nuts,Very low carb and high fat to put the body into ketosis.
+vegetarian,fruits|vegetables|beans|tofu|whole grains,Avoids meat and focuses on plant-based foods.
+vegan,fruits|vegetables|beans|lentils|nuts,Avoids all animal products and uses only plant-based foods.
+mediterranean,fish|olive oil|vegetables|nuts|whole grains,Emphasizes whole foods and healthy fats for heart health.
+paleo,meat|fish|eggs|fruits|vegetables,Focuses on unprocessed foods similar to early human diets.
+Intermittent Fasting,No specific foods but eat on the healthier side,"A time-restricted eating pattern (e.g., 16:8 method) or alternate-day fasting, aimed at weight loss, metabolic health, and cellular repair."
+DASH,fresh fruits;vegetables;whole grains;sodium;no sugar;no red meat,"The DASH Diet (Dietary Approaches to Stop Hypertension) was designed to lower high blood pressure and support overall health. It emphasizes fresh fruits, vegetables, whole grains, and limits sodium, sugar, and red meat. "
